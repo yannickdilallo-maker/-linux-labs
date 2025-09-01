@@ -1,18 +1,18 @@
 # Linux Labs – Portfolio DevOps
 
-Ce dépôt regroupe mes labs de reconversion DevOps (Linux, Git, Docker, automatisation…).
+Ce dépôt regroupe mes labs DevOps (Linux, Git, Docker, automatisation…).
 
-## 🚀 Projets
+## Projets
 - **Backup script (Bash)** → [projects/backup-script](projects/backup-script)  
 - **Site Nginx Dockerisé** → [projects/docker-site](projects/docker-site)
 
-## 📚 Notes
+## Notes
 - [Linux cheat sheet](docs/linux-cheatsheet.md)
 - [Git cheat sheet](docs/git-cheatsheet.md)
 - [Cron cheat sheet](docs/cron-cheatsheet.md)
 - [Docker cheat sheet](docs/docker-cheatsheet.md)
 
-## ▶️ Démarrer un projet
+## Démarrer un projet
 Exemple pour le site Dockerisé :
 ```bash
 git clone git@github.com:<TON_USER>/linux-labs.git
