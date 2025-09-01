@@ -1,0 +1,13 @@
+# Logs
+*.log
+backups/
+*.tar.gz
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
